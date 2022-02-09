@@ -1,4 +1,4 @@
-## Welcome to my pussy
+## Welcome to my cv
 
 You can use the [editor on GitHub](https://github.com/MichaelChatz/cv/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
